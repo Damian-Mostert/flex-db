@@ -15,7 +15,7 @@
     "database"
   ],
   "author": "DamianMostert",
-  "license": "ISC",
+  "license": "none",
   "dependencies": {
     "express": "^4.18.1"
   }
